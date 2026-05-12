@@ -12,7 +12,6 @@
 | 2 | [**Claude Code CLI 教程**](claude_code_guide.md) | 安装、认证方式（含 DeepSeek 第三方 API 包装脚本）、交互/打印模式、项目上下文配置 |
 | 3 | [**Codex CLI 教程**](codex_cli_guide.md) | 安装、exec 模式、--full-auto / --yolo 参数、并行任务、注意事项 |
 | 4 | [**Hermes Agent 教程**](hermes_agent_guide.md) | AI 代理框架安装、Telegram / 微信对接、网关管理、技能系统、多模型配置 |
-| 5 | [**MoviePilot + 115 Strm 插件指南**](content/posts/moviepilot-115-strm-guide.md) | MoviePilot V2 部署、115 网盘 Strm 方案搭建、云盘插件配置、Emby 零存储媒体库 |
 
 ---
 
