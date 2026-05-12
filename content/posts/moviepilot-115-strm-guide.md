@@ -1,7 +1,7 @@
 ---
 title: "MoviePilot + 115网盘 Strm 插件：搭建丝滑的云端媒体库"
 description: "用 MoviePilot 配合 115 网盘的 Strm 方案，无需下载即可建立 Emby/Jellyfin 媒体库"
-date: 2026-05-13
+date: 2026-05-12
 tags: ["MoviePilot", "115", "Strm", "Emby", "媒体服务器", "NAS"]
 ---
 
